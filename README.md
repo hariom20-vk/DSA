@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/hariom20-vk/DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/hariom20-vk/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/hariom20-vk/DSA/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/hariom20-vk/DSA/tree/master/0016-3sum-closest) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/hariom20-vk/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0169-majority-element](https://github.com/hariom20-vk/DSA/tree/master/0169-majority-element) |
 | [0643-maximum-average-subarray-i](https://github.com/hariom20-vk/DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/hariom20-vk/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/hariom20-vk/DSA/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/hariom20-vk/DSA/tree/master/0016-3sum-closest) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/hariom20-vk/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0344-reverse-string](https://github.com/hariom20-vk/DSA/tree/master/0344-reverse-string) |
 | [0905-sort-array-by-parity](https://github.com/hariom20-vk/DSA/tree/master/0905-sort-array-by-parity) |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/hariom20-vk/DSA/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/hariom20-vk/DSA/tree/master/0016-3sum-closest) |
 | [0169-majority-element](https://github.com/hariom20-vk/DSA/tree/master/0169-majority-element) |
 | [0905-sort-array-by-parity](https://github.com/hariom20-vk/DSA/tree/master/0905-sort-array-by-parity) |
 ## Sliding Window
