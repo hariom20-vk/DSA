@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/hariom20-vk/DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/hariom20-vk/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0169-majority-element](https://github.com/hariom20-vk/DSA/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/hariom20-vk/DSA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/hariom20-vk/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/hariom20-vk/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0905-sort-array-by-parity](https://github.com/hariom20-vk/DSA/tree/master/0905-sort-array-by-parity) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/hariom20-vk/DSA/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/hariom20-vk/DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/hariom20-vk/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0189-rotate-array](https://github.com/hariom20-vk/DSA/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/hariom20-vk/DSA/tree/master/0344-reverse-string) |
 | [0905-sort-array-by-parity](https://github.com/hariom20-vk/DSA/tree/master/0905-sort-array-by-parity) |
 ## Sorting
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/hariom20-vk/DSA/tree/master/0209-minimum-size-subarray-sum) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/hariom20-vk/DSA/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
